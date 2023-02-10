@@ -1,2 +1,1 @@
-# 25-small-project
-
+# 25-Small-Project
